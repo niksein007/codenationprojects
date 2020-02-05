@@ -1,3 +1,3 @@
-#This is mark's first git project
-** i think this is rubbish **
+# This is mark's first git project
+**i think this is rubbish**
 
